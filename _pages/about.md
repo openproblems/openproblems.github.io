@@ -24,7 +24,7 @@ I am a third year undergraduate student of Gwanju Institute of Science and Techn
 
 My current fields of interests are Algebraic Combinatorics, Geometric Combinatorics and Topological Combinatorics.
 
-I have attended UC Berkeley as an exchange student for a year, and was fortunate to meet Professor Andr\'es R. Vindas Mel\'endez who I am doing research under the supervision of. I am also an undergraduate intern in a toplogical combinatorics lab organized by Professor Minki Kim.
+I have attended UC Berkeley as an exchange student for a year, and was fortunate to meet Professor Andrés R. Vindas Meléndez who I am doing research under the supervision of. I am also an undergraduate intern in a toplogical combinatorics lab organized by Professor Minki Kim.
 
 I have worked on Ehrhart Theory, Posets and Kazhdan-Lusztig Polynomials, and hope to dive deeper into Coxeter Groups and Schubert Calculus.
 
