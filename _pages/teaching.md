@@ -11,4 +11,4 @@ nav_order: 5
 
 - Fall, 2023: Multivariate Calculus Teaching Assistant
 
-- Fall, 2023: Pencil & Paper (GIST Mathematics Student Club) SageMath, LaTeX Lecturer
+- Fall, 2023: Pencil & Paper (GIST Undergraduate Mathematics Club) SageMath, LaTeX Lecturer
