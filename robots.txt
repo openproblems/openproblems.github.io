@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://openproblems.github.io/al-folio/sitemap.xml
+Sitemap: https://openproblems.github.io/sitemap.xml
