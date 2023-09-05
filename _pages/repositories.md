@@ -1,3 +1,5 @@
+<!---
+
 ---
 layout: page
 permalink: /repositories/
@@ -41,4 +43,6 @@ nav_order: 3
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
+
+-->
 {% endif %}
