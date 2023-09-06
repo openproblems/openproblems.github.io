@@ -19,4 +19,4 @@ nav_order: 5
 
 - Fall, 2023: GIST Combinatorics Seminar Speaker
 
-- Spring 2024: Mathematics Dong-A Polymass (Korean Math Journal for Students) Journalist/Mentor
+- Spring 2024: Mathematics Dong-A Polymath (Korean Math Journal for Students) Journalist/Mentor
