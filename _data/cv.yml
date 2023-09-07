@@ -13,7 +13,7 @@
   contents:
     - title: B.S.
       institution: Gwangju Institute of Science and Technology (GIST)
-      year: 1905
+      year: 2021.02.22. - 2027.02.16.
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Exchange Student
+      institution: University of California, Berkeley
+      year: 2021-06-21 ~ 2021-08-12
       description:
         - Description 1.
         - Description 2.
