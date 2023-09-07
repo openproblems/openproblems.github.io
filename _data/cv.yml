@@ -13,20 +13,36 @@
   contents:
     - title: B.S.
       institution: Gwangju Institute of Science and Technology (GIST)
-      year: 2021.02.22. - 2027.02.16.
+      year: 2021 - 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Major - CS / Minor - Mathematics
+        - title: Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Linear Algebra
+            - Real Analysis
+            - Complex Analysis
+            - Topology
+            - Graph Theory
+        - title: Research
+          contents:
+            - Under the Supervision of Professor Minki Kim
+            - Topological Combinatorics, Graph Theory
+            
     - title: Exchange Student
       institution: University of California, Berkeley
-      year: 2021-06-21 ~ 2021-08-12
+      year: 2021, 2023
       description:
-        - Description 1.
-        - Description 2.
+        - title: Courses
+          contents:
+            - Discrete mathematics
+            - Number Theory
+            - Analysis of Boolean Functions
+            - Algebraic Combiantorics
+            - Abstract Algebra
+        - title: Research
+          contents:
+            - Under the Supervision of Professor Andrés R. Vindas Meléndez
+            - title: Posets, Ehrhart Theory
 
 - title: Experience
   type: time_table
