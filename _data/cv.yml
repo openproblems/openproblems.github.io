@@ -42,7 +42,11 @@
         - title: Research
           contents:
             - Under the Supervision of Professor Andrés R. Vindas Meléndez
-            - title: Posets, Ehrhart Theory
+            - Posets, Ehrhart Theory
+
+    - title: Exchange Student
+      institution: Korea University
+      year: 2023
 
 - title: Experience
   type: time_table
