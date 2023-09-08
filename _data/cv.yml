@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 8th January 2003
     - name: Languages
-      value: English, Korean
+      value: English (native), Korean (native)
 
 - title: Education
   type: time_table
@@ -18,12 +18,17 @@
         - Major - CS / Minor - Mathematics
         - title: Courses
           contents:
+            - Multivariable Calculus and Applications
+            - Mathematical Moments - AI
+            - Mathematics for Machine Learning
             - Introduction to Linear Algebra and Applications
             - Differential Equations and Applications
             - Real Analysis and Applications
             - Complex Analysis and Applications
             - Introduction to Topology
             - Graph Theory
+            - Linear Algebra and its Applications (Graduate)
+            - Discrete Mathematics
         - title: Research
           contents:
             - Under the Supervision of Professor Minki Kim
@@ -64,6 +69,7 @@
         - Co-researched with Carson Mitchell, Zhi Wang
         - Research Field - Ehrhart Theory, Posets
         - Publications - Stack-sorting simplices
+        - Publications - Ehrhart Theory on Generalized Snake Posets
 
     - title: Undergraduate Research Participant
       institution: Gwangju Institute of Science and Technology
@@ -104,11 +110,11 @@
         - Coxeter Group Theory and Lie Group Theory
         - Kazhdan-Lusztig Polynomials and Deodhar Elements
 
-    - title: Journalist/Mentor for Dong-A Mathematics Magazine (#1 Mathematics Magazine for Public)
+    - title: Journalist/Mentor for Dong-A Mathematics Magazine (#1 Mathematics Magazine for the Public)
       institution: Dong-A Science
       year: 2024        
 
-- title: Seminars
+- title: Attended Seminars
   type: time_table
   contents:
     - title: GIST Faculty Forum (Prof. Minki Kim) Attendee
@@ -117,16 +123,16 @@
     - title: 2022 Fields Medal Nominee Huh June Commemoration Lecture Attendee
       description:
         - Colored Polynomial and Algebraic Geometry
-    - title: 2022 Combinatorics Workshop at GIST
+    - title: 2022 Combinatorics Workshop at GIST Attendee
       description:
         - Graph Theory, LLT polynomials, Macdonald polynomials
-    - title: The UC Berkeley Combinatorics Seminar
+    - title: The UC Berkeley Combinatorics Seminar Attendee
       description:
         - Various Topics on Enumerative/Algebraic/Geometric Combinatorics
-    - title: UC Berkeley MUSA Math Monday Seminar
+    - title: UC Berkeley MUSA Math Monday Seminar Attendee
       description:
         - Various Topics on Mathematics
-    - title: MSRI / SLMath 40th Anniversary Symposium
+    - title: MSRI / SLMath 40th Anniversary Symposium Attendee
       description:
         - Commutative Algebra, Knot Theory, Mathematics for the Public, Mathematics and AI
       
@@ -134,27 +140,43 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - National Scholarship for Science & Engineering
+    - year: 2021, 2022
       items: 
-        - Max Planck Medal
+        - Academic Scholarship to excellence, GIST
+    - year: 2022
+      items:
+        - Scholarship for Summer session abroad, GIST
+    - year: 2023
+      items:
+        - Scholarship for Study Abroad Program, GIST
 
-- title: Academic Interests
+- title: Course Project
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Software Basics and Coding
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Optimal Scheduler Program (2021)
+    - title: Mathematical Moments - AI
       items:
-        - Description 1.
-        - Description 2.
+        - The Mathematical Meaning of Positional Numeral Systems and Choosing an Efficient Radix
+        - Classification of Formal Systems Without the Need of Meta-theorem
+        - Effective Matrix Representation of the Venn Diagram
+        - Comparison of the Word ‘Equivalence’ Used in Mathematics with the Word ‘Identity’ Used in Philosophy
+        - Rough Definition and Understandings of Countability
+        - The Most Fundamental Theorem of Mathematics
+    - title: Basic Problems of Philosophy
+     items:
+       - Analysis on The Trolley-Problem - Moral Philosophy of Immanuel Kant and the Philosophy of Possible Universes
+       - Who Am I? - Analysis on the Philosophy of Personal Identity
+    - title:
+      items: Analysis of Boolean Functions
+        - Sharp Thresholds of Graph Properties
 
-- title: Other Interests
-  type: list
+- title: Non-Academical Activities
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - GIST Election Commission 13th Vice President
+    - Gwangju Science Museum Volunteer
