@@ -153,30 +153,4 @@
       items:
         - Scholarship for Study Abroad Program, GIST
 
-- title: Course Project
-  type: time_table
-  contents:
-    - title: Software Basics and Coding
-      description: 
-        - Optimal Scheduler Program (2021)
-    - title: Mathematical Moments - AI
-      description:
-        - The Mathematical Meaning of Positional Numeral Systems and Choosing an Efficient Radix
-        - Classification of Formal Systems Without the Need of Meta-theorem
-        - Effective Matrix Representation of the Venn Diagram
-        - Comparison of the Word ‘Equivalence’ Used in Mathematics with the Word ‘Identity’ Used in Philosophy
-        - Rough Definition and Understandings of Countability
-        - The Most Fundamental Theorem of Mathematics
-    - title: Basic Problems of Philosophy
-     description:
-       - Analysis on The Trolley-Problem - Moral Philosophy of Immanuel Kant and the Philosophy of Possible Universes
-       - Who Am I? - Analysis on the Philosophy of Personal Identity
-    - title: Analysis of Boolean Functions
-      description:
-        - Sharp Thresholds of Graph Properties
 
-- title: Non-Academical Activities
-  type: time_table
-  contents:
-    - GIST Election Commission 13th Vice President
-    - Gwangju Science Museum Volunteer
