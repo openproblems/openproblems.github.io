@@ -18,10 +18,11 @@
         - Major - CS / Minor - Mathematics
         - title: Courses
           contents:
-            - Linear Algebra
-            - Real Analysis
-            - Complex Analysis
-            - Topology
+            - Introduction to Linear Algebra and Applications
+            - Differential Equations and Applications
+            - Real Analysis and Applications
+            - Complex Analysis and Applications
+            - Introduction to Topology
             - Graph Theory
         - title: Research
           contents:
@@ -32,13 +33,14 @@
       institution: University of California, Berkeley
       year: 2021, 2023
       description:
+        - GPA - 4.0/4.0
         - title: Courses
           contents:
             - Discrete mathematics
-            - Number Theory
+            - Introduction to Number Theory
             - Analysis of Boolean Functions
             - Algebraic Combiantorics
-            - Abstract Algebra
+            - Introduction to Abstract Algebra
         - title: Research
           contents:
             - Under the Supervision of Professor Andrés R. Vindas Meléndez
@@ -47,41 +49,65 @@
     - title: Exchange Student
       institution: Korea University
       year: 2023
+      description:
+        - GPA - 4.5/4.5
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Research Participant
+      institution: University of California, Berkeley
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Under the supervision of Professor Andrés R. Vindas Meléndez
+        - Co-researched with Carson Mitchell, Zhi Wang
+        - Research Field - Ehrhart Theory, Posets
+        - Publications - Stack-sorting simplices
+
+    - title: Undergraduate Research Participant
+      institution: Gwangju Institute of Science and Technology
+      year: 2022-2027
+      description:
+        - Under the supervision of Professor Minki Kim
+        - Research Field - Topological Combinatorics, Graph Theory, Computational Geometry
+        - Directed Reading Group about Topological Combiatorics
+        - Combinatorics Seminar (with Yunho Kim, Prof. Minki Kim, Prof. Jinha Kim, Prof. Jeong-Ok Choi)
+        - title: Presentations
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Review of the Paper TVERBERG’S THEOREM, A NEW PROOF (Imre Bárány)
+            - Ehrhart Theory and Stack-Sorting Simplicies
+            - Kazhdan-Lusztig Polynomial and Deodhar Elements
+            
+    - title: President of Pencil and Paper (GIST Mathematics Student Club)
+      institution: Gwangju Institute of Science and Technology (GIST)
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Seminar
+          contents:
+            - Pencil and Paper & Holics (GIST Physics Student Club) Joint Seminar Organizer/Speaker
+            - Student Mathematics Seminar Organizer/Speaker
+        - title: Workshops
+          contents:
+            - Student Study Group of Advanced Mathematics Organizer/Participant
+            - SageMath/LaTeX Workshop Organizer/Lecturer
+            - Korean Mathematics Society Undergraduate Mathematics Competition Study Group Organizer/Participant
+        - title: Research
+          contents:
+            - Undergraduate Research Program Organizer/Participant
+        
+    - title: UC Berkeley Directed Reading Program (DRP) Particiapant
+      institution: University of California, Berkeley
+      year: 2023
       description:
+        - Mentored by Yixuan Li
+        - Coxeter Group Theory and Lie Group Theory
+        - Kazhdan-Lusztig Polynomials and Deodhar Elements
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Journalist/Mentor for Dong-A Mathematics Magazine (#1 Mathematics Magazine for Public)
+      institution: Dong-A Science
+      year: 2024        
 
-- title: Open Source Projects
+- title: Seminars
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
