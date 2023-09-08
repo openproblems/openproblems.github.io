@@ -154,7 +154,7 @@
         - Scholarship for Study Abroad Program, GIST
 
 - title: Course Project
-  type: nested_list
+  type: time_table
   contents:
     - title: Software Basics and Coding
       description: 
@@ -176,7 +176,7 @@
         - Sharp Thresholds of Graph Properties
 
 - title: Non-Academical Activities
-  type: nested_list
+  type: time_table
   contents:
     - GIST Election Commission 13th Vice President
     - Gwangju Science Museum Volunteer
