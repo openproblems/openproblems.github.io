@@ -43,6 +43,7 @@
             - Introduction to Abstract Algebra
         - title: Research
           contents:
+            - Review Paper/Presentation on SHARP THRESHOLDS OF GRAPH PROPERTIES, AND THE k-SAT PROBLEM (Ehud Friedgut)
             - Under the Supervision of Professor Andrés R. Vindas Meléndez
             - Posets, Ehrhart Theory
 
@@ -110,9 +111,25 @@
 - title: Seminars
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: GIST Faculty Forum (Prof. Minki Kim) Attendee
+      description:
+        - Colorful World in Topological Combinatorics
+    - title: 2022 Fields Medal Nominee Huh June Commemoration Lecture Attendee
+      description:
+        - Colored Polynomial and Algebraic Geometry
+    - title: 2022 Combinatorics Workshop at GIST
+      description:
+        - Graph Theory, LLT polynomials, Macdonald polynomials
+    - title: The UC Berkeley Combinatorics Seminar
+      description:
+        - Various Topics on Enumerative/Algebraic/Geometric Combinatorics
+    - title: UC Berkeley MUSA Math Monday Seminar
+      description:
+        - Various Topics on Mathematics
+    - title: MSRI / SLMath 40th Anniversary Symposium
+      description:
+        - Commutative Algebra, Knot Theory, Mathematics for the Public, Mathematics and AI
+      
 
 - title: Honors and Awards
   type: time_table
